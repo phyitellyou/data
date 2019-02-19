@@ -5,7 +5,7 @@ var weiXin= u.indexOf('MicroMessenger') > -1;
 var QQ= ua.match(/QQ/i) == "qq";
 //alert(''+QQ+QQbrw+weiXin);
 if(QQ||weiXin){
-  alert('请使用浏览器打开');
+  alert('璇蜂娇鐢ㄦ祻瑙堝櫒鎵撳紑');
   window.location.href="https://www.google.cn/chrome/";
 }
 
