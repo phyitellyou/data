@@ -10,4 +10,4 @@ if(QQ||weiXin){
 }
 alert("本站仅供个人学习参考");
 document.body.style.backgroundImage="url(\"/data/12.png\")";
-document.body.style.background-size="192px 96px";
+document.body.style.backgroundSize="192px 96px";
